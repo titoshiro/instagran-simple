@@ -1,0 +1,54 @@
+body{
+    background-color: lemonchiffon;
+}
+header{
+
+    text-align: center;
+    background-color: lavender;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: fuchsia;
+    margin: 0;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+div.posteo{
+
+    background-color:white;
+}
+
+div.caja{
+   
+    width: 500px;
+    margin: auto;
+    margin-bottom: auto;
+}
+
+div.posteo img{
+
+    width: 500px;
+}
+
+div.posteo p {
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+div.posteo h2 {
+    font-family: sans-serif;
+    float: left;
+    margin-left: 20px;
+}
+div.posteo span {
+    
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+    color: rgb(174, 172, 172);
+
+
+  
+    
+    
+}
